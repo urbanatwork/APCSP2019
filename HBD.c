@@ -1,4 +1,4 @@
-// Simple Happy Birthday program asking for user input
+// A Happy Birthday Song-inator asking for user input
 // by Urban Reininger aka UrbanAtWork 
 // for use with: https://sandbox.cs50.io/
 
